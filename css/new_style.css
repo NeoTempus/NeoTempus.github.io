@@ -6,3 +6,12 @@ a:link, a:visited{
 a:hover{
     color: dimgrey;
 }
+
+body {
+    background-color: black;
+}
+
+.logo {
+    height: auto;
+    width: 60%
+}
