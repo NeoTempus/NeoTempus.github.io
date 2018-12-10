@@ -7,10 +7,14 @@ a:hover{
     color: dimgrey;
 }
 
+html {
+    height: 100%;
+}
+
 body {
     background-color: black;
+    min-height: 100%;
     font-weight:bold;
-    padding-top: 20%;
 }
 
 .logo {
